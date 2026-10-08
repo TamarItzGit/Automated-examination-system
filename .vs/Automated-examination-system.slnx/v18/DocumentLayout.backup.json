@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\C#\\Automated-examination-system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AED7E73-B188-4AEC-A412-38F4FB643E5B}|Automated-examination-system\\Automated-examination-system.csproj|c:\\users\\user\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\c#\\automated-examination-system\\automated-examination-system\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8AED7E73-B188-4AEC-A412-38F4FB643E5B}|Automated-examination-system\\Automated-examination-system.csproj|solutionrelative:automated-examination-system\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AED7E73-B188-4AEC-A412-38F4FB643E5B}|Automated-examination-system\\Automated-examination-system.csproj|c:\\users\\user\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\c#\\automated-examination-system\\automated-examination-system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8AED7E73-B188-4AEC-A412-38F4FB643E5B}|Automated-examination-system\\Automated-examination-system.csproj|solutionrelative:automated-examination-system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AED7E73-B188-4AEC-A412-38F4FB643E5B}|Automated-examination-system\\Automated-examination-system.csproj|c:\\users\\user\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\c#\\automated-examination-system\\automated-examination-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AED7E73-B188-4AEC-A412-38F4FB643E5B}|Automated-examination-system\\Automated-examination-system.csproj|solutionrelative:automated-examination-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AED7E73-B188-4AEC-A412-38F4FB643E5B}|Automated-examination-system\\Automated-examination-system.csproj|c:\\users\\user\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\c#\\automated-examination-system\\automated-examination-system\\automated-examination-system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8AED7E73-B188-4AEC-A412-38F4FB643E5B}|Automated-examination-system\\Automated-examination-system.csproj|solutionrelative:automated-examination-system\\automated-examination-system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AED7E73-B188-4AEC-A412-38F4FB643E5B}|Automated-examination-system\\Automated-examination-system.csproj|c:\\users\\user\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\c#\\automated-examination-system\\automated-examination-system\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AED7E73-B188-4AEC-A412-38F4FB643E5B}|Automated-examination-system\\Automated-examination-system.csproj|solutionrelative:automated-examination-system\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AED7E73-B188-4AEC-A412-38F4FB643E5B}|Automated-examination-system\\Automated-examination-system.csproj|c:\\users\\user\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\c#\\automated-examination-system\\automated-examination-system\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AED7E73-B188-4AEC-A412-38F4FB643E5B}|Automated-examination-system\\Automated-examination-system.csproj|solutionrelative:automated-examination-system\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\C#\\Automated-examination-system\\Automated-examination-system\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Automated-examination-system\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\C#\\Automated-examination-system\\Automated-examination-system\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Automated-examination-system\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-08T19:07:46.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Automated-examination-system",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\C#\\Automated-examination-system\\Automated-examination-system\\Automated-examination-system.csproj",
+              "RelativeDocumentMoniker": "Automated-examination-system\\Automated-examination-system.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\C#\\Automated-examination-system\\Automated-examination-system\\Automated-examination-system.csproj",
+              "RelativeToolTip": "Automated-examination-system\\Automated-examination-system.csproj",
+              "ViewState": "AgIAAAwAAABQZmZmZiYgwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-08T19:03:46.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\C#\\Automated-examination-system\\Automated-examination-system\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Automated-examination-system\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\C#\\Automated-examination-system\\Automated-examination-system\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Automated-examination-system\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T18:54:22.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\C#\\Automated-examination-system\\Automated-examination-system\\appsettings.json",
+              "RelativeDocumentMoniker": "Automated-examination-system\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\C#\\Automated-examination-system\\Automated-examination-system\\appsettings.json",
+              "RelativeToolTip": "Automated-examination-system\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-08T18:54:13.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\C#\\Automated-examination-system\\Automated-examination-system\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Automated-examination-system\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\C#\\Automated-examination-system\\Automated-examination-system\\WeatherForecast.cs",
+              "RelativeToolTip": "Automated-examination-system\\WeatherForecast.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T18:47:02.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\C#\\Automated-examination-system\\Automated-examination-system\\Program.cs",
+              "RelativeDocumentMoniker": "Automated-examination-system\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05DB\u05D9\u05EA\u05D4 \u05D9\u05D3\\C#\\Automated-examination-system\\Automated-examination-system\\Program.cs",
+              "RelativeToolTip": "Automated-examination-system\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T18:47:00.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
