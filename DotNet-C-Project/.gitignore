@@ -1,0 +1,38 @@
+<<<<<<< HEAD
+﻿# Visual Studio / .NET temp files
+=======
+# Visual Studio / .NET temp files
+>>>>>>> 36ee9d9e090e222872db642c5a65d0c855e2674f
+.vs/
+bin/
+obj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+# Build and Output log files
+*.log
+
+# User-specific and environment settings
+appsettings.Development.json
+appsettings.Personal.json
+*.env
+
+# Operating system cleanups
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Test results
+[Tt]est[R]esult*/
+[Bb]uild[L]og.*/
+
+# Packages
+<<<<<<< HEAD
+*.nupkg
+/.vs/DalTestDotNet2027_8507_9821.slnx/FileContentIndex/5a584d7a-7a7e-419d-b842-5990c7f17b7a.vsidx
+/DalTestDotNet2027_8507_9821.slnx
+=======
+*.nupkg
+>>>>>>> 36ee9d9e090e222872db642c5a65d0c855e2674f
