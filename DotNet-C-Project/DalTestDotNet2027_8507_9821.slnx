@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Solution Items/" />
+  <Project Path="DalFacade/DalFacade.csproj" Id="cf720fde-d99f-41c3-874d-7350d8c7f61d" />
+  <Project Path="DalList/DalList.csproj" Id="22dd05c0-690b-4b26-bdfa-862fd7d25731" />
+  <Project Path="DalTest/DalTest.csproj" />
+</Solution>
