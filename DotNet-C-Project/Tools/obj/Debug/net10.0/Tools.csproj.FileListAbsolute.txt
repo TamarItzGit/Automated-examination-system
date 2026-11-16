@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\Tools\bin\Debug\net10.0\Tools.deps.json
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\Tools\bin\Debug\net10.0\Tools.dll
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\Tools\bin\Debug\net10.0\Tools.pdb
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\Tools\obj\Debug\net10.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\Tools\obj\Debug\net10.0\Tools.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\Tools\obj\Debug\net10.0\Tools.AssemblyInfo.cs
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\Tools\obj\Debug\net10.0\Tools.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\Tools\obj\Debug\net10.0\Tools.sourcelink.json
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\Tools\obj\Debug\net10.0\Tools.dll
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\Tools\obj\Debug\net10.0\refint\Tools.dll
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\Tools\obj\Debug\net10.0\Tools.pdb
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\Tools\obj\Debug\net10.0\ref\Tools.dll
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\Tools\obj\Debug\net10.0\Tools.csproj.Up2Date

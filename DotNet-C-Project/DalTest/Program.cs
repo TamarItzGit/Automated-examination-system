@@ -3,6 +3,10 @@ using DalFacade.DO;
 using Do;
 using DO;
 using System;
+using Dal;
+using Tools;
+using System.Reflection;
+
 
 namespace DalTest;
 
@@ -26,6 +30,7 @@ internal class Program
                 Console.WriteLine("2. Manage Tests");
                 Console.WriteLine("3. Manage Questions");
                 Console.WriteLine("4. Manage Student-Questions");
+                Console.WriteLine("5. Clean old logs");
                 Console.Write("Choose an option: ");
 
                 if (!int.TryParse(Console.ReadLine(), out int choice))
@@ -38,6 +43,7 @@ internal class Program
                     case 2: TestMenu(); break;
                     case 3: QuestionMenu(); break;
                     case 4: StudentQuestionMenu(); break;
+                    case 5: LogManager.CleanOldLogs(); Console.WriteLine("Old logs cleaned."); break;
                     default: Console.WriteLine("Invalid option. Try again."); break;
                 }
             }
@@ -45,6 +51,8 @@ internal class Program
         catch (Exception ex)
         {
             Console.WriteLine($"\nSystem Error: {ex.Message}");
+            LogManager.WriteToLog(MethodBase.GetCurrentMethod()!.DeclaringType!.FullName!, MethodBase.GetCurrentMethod()!.Name, $"Error: {ex.Message}");
+
         }
     }
 
@@ -139,7 +147,10 @@ internal class Program
                     default: Console.WriteLine("Invalid action."); break;
                 }
             }
-            catch (Exception ex) { Console.WriteLine($"Error: {ex.Message}"); }
+            catch (Exception ex) {
+                Console.WriteLine($"Error: {ex.Message}");
+                LogManager.WriteToLog(MethodBase.GetCurrentMethod()!.DeclaringType!.FullName!, MethodBase.GetCurrentMethod()!.Name, $"Error: {ex.Message}");
+            }
         }
     }
 
@@ -193,7 +204,10 @@ internal class Program
                     default: Console.WriteLine("Invalid action."); break;
                 }
             }
-            catch (Exception ex) { Console.WriteLine($"Error: {ex.Message}"); }
+            catch (Exception ex) {
+                Console.WriteLine($"Error: {ex.Message}");
+                LogManager.WriteToLog(MethodBase.GetCurrentMethod()!.DeclaringType!.FullName!, MethodBase.GetCurrentMethod()!.Name, $"Error: {ex.Message}");
+            }
         }
     }
 
@@ -251,7 +265,10 @@ internal class Program
                     default: Console.WriteLine("Invalid action."); break;
                 }
             }
-            catch (Exception ex) { Console.WriteLine($"Error: {ex.Message}"); }
+            catch (Exception ex) {
+                Console.WriteLine($"Error: {ex.Message}");
+                LogManager.WriteToLog(MethodBase.GetCurrentMethod()!.DeclaringType!.FullName!, MethodBase.GetCurrentMethod()!.Name, $"Error: {ex.Message}");
+            }
         }
     }
 
@@ -314,7 +331,10 @@ internal class Program
                     default: Console.WriteLine("Invalid action."); break;
                 }
             }
-            catch (Exception ex) { Console.WriteLine($"Error: {ex.Message}"); }
+            catch (Exception ex) {
+                Console.WriteLine($"Error: {ex.Message}");
+                LogManager.WriteToLog(MethodBase.GetCurrentMethod()!.DeclaringType!.FullName!, MethodBase.GetCurrentMethod()!.Name, $"Error: {ex.Message}"); 
+            }
         }
     }
 }

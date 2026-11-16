@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\DalFacade\obj\Debug\net10.0\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\DalFacade\obj\Debug\net10.0\DalFacade.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\DalFacade\obj\Debug\net10.0\DalFacade.AssemblyInfo.cs
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\DalFacade\obj\Debug\net10.0\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\DalFacade\obj\Debug\net10.0\DalFacade.sourcelink.json
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\DalFacade\bin\Debug\net10.0\DalFacade.deps.json
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\DalFacade\bin\Debug\net10.0\DalFacade.dll
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\DalFacade\bin\Debug\net10.0\DalFacade.pdb
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\DalFacade\obj\Debug\net10.0\DalFacade.dll
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\DalFacade\obj\Debug\net10.0\refint\DalFacade.dll
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\DalFacade\obj\Debug\net10.0\DalFacade.pdb
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\DalFacade\obj\Debug\net10.0\ref\DalFacade.dll
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\DalFacade\obj\Debug\net10.0\DalFacade.csproj.Up2Date
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\DalFacade\bin\Debug\net10.0\Tools.dll
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\DalFacade\bin\Debug\net10.0\Tools.pdb
+C:\Users\User\Desktop\הנדסאים\כיתה יד\C#\Automated-examination-system\DotNet-C-Project\DalFacade\obj\Debug\net10.0\DalFacade.csproj.AssemblyReference.cache

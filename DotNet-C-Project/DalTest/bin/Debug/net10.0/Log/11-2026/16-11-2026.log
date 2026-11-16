@@ -1,0 +1,28 @@
+16/11/2026 17:56:49	Dal.DalStudent.Create:	Starting Create Student
+16/11/2026 17:56:49	Dal.DalStudent.Create:	Finished Create Student with ID: 111111111
+16/11/2026 17:56:49	Dal.DalStudent.Create:	Starting Create Student
+16/11/2026 17:56:49	Dal.DalStudent.Create:	Finished Create Student with ID: 222222222
+16/11/2026 17:56:49	Dal.DalTest.Create:	Starting Create Test
+16/11/2026 17:56:49	Dal.DalTest.Create:	Finished Create Test with ID: 0
+16/11/2026 17:56:49	Dal.DalQuestion.Create:	Starting Create Question
+16/11/2026 17:56:49	Dal.DalQuestion.Create:	Finished Create Question with ID: 0
+16/11/2026 17:57:03	Dal.DalTest.ReadAll:	Starting ReadAll Tests
+16/11/2026 17:57:03	Dal.DalTest.ReadAll:	Finished ReadAll Tests
+16/11/2026 18:14:00	Dal.DalStudent.Create:	Starting Create Student
+16/11/2026 18:14:00	Dal.DalStudent.Create:	Finished Create Student with ID: 111111111
+16/11/2026 18:14:00	Dal.DalStudent.Create:	Starting Create Student
+16/11/2026 18:14:00	Dal.DalStudent.Create:	Finished Create Student with ID: 222222222
+16/11/2026 18:14:00	Dal.DalTest.Create:	Starting Create Test
+16/11/2026 18:14:00	Dal.DalTest.Create:	Finished Create Test with ID: 0
+16/11/2026 18:14:00	Dal.DalQuestion.Create:	Starting Create Question
+16/11/2026 18:14:00	Dal.DalQuestion.Create:	Finished Create Question with ID: 0
+16/11/2026 18:14:17	Dal.DalStudentQuestion.Create:	Starting Create StudentQuestion
+16/11/2026 18:14:17	Dal.DalStudentQuestion.Create:	Finished Create StudentQuestion with ID: 0
+16/11/2026 18:20:24	Dal.DalStudent.Create:	Starting Create Student
+16/11/2026 18:20:24	Dal.DalStudent.Create:	Finished Create Student with ID: 111111111
+16/11/2026 18:20:24	Dal.DalStudent.Create:	Starting Create Student
+16/11/2026 18:20:24	Dal.DalStudent.Create:	Finished Create Student with ID: 222222222
+16/11/2026 18:20:24	Dal.DalTest.Create:	Starting Create Test
+16/11/2026 18:20:24	Dal.DalTest.Create:	Finished Create Test with ID: 0
+16/11/2026 18:20:24	Dal.DalQuestion.Create:	Starting Create Question
+16/11/2026 18:20:24	Dal.DalQuestion.Create:	Finished Create Question with ID: 0
